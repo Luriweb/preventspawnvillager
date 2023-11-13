@@ -1,0 +1,4 @@
+name: rreventspawnvillager
+version: '${version}'
+main: com.github.luriel0228.rreventspawnvillager.Rreventspawnvillager
+api-version: '1.20'
