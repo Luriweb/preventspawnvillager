@@ -1,4 +1,4 @@
-name: rreventspawnvillager
+name: preventspawnvillager
 version: '${version}'
-main: com.github.luriel0228.rreventspawnvillager.Rreventspawnvillager
+main: com.github.luriel0228.preventspawnvillager.Rreventspawnvillager
 api-version: '1.20'
